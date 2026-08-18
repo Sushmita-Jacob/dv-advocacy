@@ -6,17 +6,27 @@ body {
 /* Creates background for nav bar buttons */
 ul {
     list-style-type: none;
-    margin-left: 0;
+    margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: pink;
+}
+
+ul li {
+    display: inline-block;
 }
 
 /* Creates button for nav bar and widens it */
 ul li a {
     display: block;
     color: blue;
-    padding: 10px 120px;
+    padding: 10px 30px;
+    text-decoration: 0; /* So there's no underline on the text */
+}
+
+ul li a:hover {
+    background-color: rgb(212, 54, 107);
+    color: white;
 }
 
 /* Makes the text not run to the edges of the screen */
