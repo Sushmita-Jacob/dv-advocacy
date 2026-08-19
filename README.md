@@ -1,1 +1,7 @@
 # dv-advocacy
+I made this website for the SAFER Leadership Institute program at My Sister's Place. My Sister's Place is an organization that helps families with domestic violence (DV) issues by providing resources, shelter, legal services, and mental health support. The SAFER Leadership Institute is a week-long series of workshops for teenagers in greater New York to hone their skills in advocacy and learn about DV so they can help others. The end of the program required a capstone project, so I made a website so the resources and information I learned from the program can be accessed anywhere around the globe. I also submitted this website to Girls Who Code's Web Design for Social Good course, which requires making an accessible website to advocate for a cause that is important to me.
+
+The website has three main features:
+- Home page: A formal definition of domestic violence with two pictures representing what it can look like
+- Fact generator: Has a button that scrolls through statistics that I learned during the SAFER program. This includes both national and local statistics.
+- Resources: Images of resources that I found helpful during SAFER. It lists types of violence, dynamics of unhealthy relationships, and dynamics of healthy relationships. This information can be used to identify potential domestic violence
