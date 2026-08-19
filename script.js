@@ -19,6 +19,7 @@ var count = 0;
 generator.addEventListener("click", displayFact); // Checks for click of the button
 
 function displayFact(){
+    fact.classList.add("show"); // Shows fact when button is clicked
     fact.innerHTML = factList[count];
     count++; // Goes through each fact
     if (count == factList.length){ // Number of facts, can break if hardcoded
